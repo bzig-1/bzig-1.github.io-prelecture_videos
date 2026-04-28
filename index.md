@@ -7,11 +7,13 @@ layout: default
 COMP110 should have pre-lecture videos that would help students to be better prepared for lecture and its contents. It would reduce confusion and increase student confidence. This would especially help students with little to no coding expierence.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="prelecture_videos/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-![plot1](imgs/image.png)
-![plot2](imgs/image-1.png)
-![plot3](imgs/image-2.png)
+<img src="prelecture_videos/static/imgs/image.png" alt="plot 1" width="500"/>
+<img src="prelecture_videos/static/imgs/image-1.png" alt="plot 2" width="500"/>
+<img src="prelecture_videos/static/imgs/image-2.png" alt="plot 3" width="500"/>
+
+
 
 ## My Analysis
 
