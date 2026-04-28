@@ -9,9 +9,9 @@ COMP110 should have pre-lecture videos that would help students to be better pre
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-![alt text= "plot1"](image.png)
-![alt text= "plot2"](image-1.png)
-![alt text= "plot3"](image-2.png)
+![plot1](imgs/image.png)
+![plot2](imgs/image-1.png)
+![plot3](imgs/image-2.png)
 
 ## My Analysis
 
